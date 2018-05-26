@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5680-2A12
+
+ Directory of C:\Users\Umair\Desktop\new Project
+
+26-May-18  08:53 PM    <DIR>          .
+26-May-18  08:53 PM    <DIR>          ..
+26-May-18  08:53 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   9,650,466,816 bytes free
